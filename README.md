@@ -185,7 +185,7 @@ docker exec -it jd bash
 ```
 
 ```
-wget -q https://ghproxy.com/https://raw.githubusercontent.com/zsw503/dd/main/v4mb.sh -O v4mb.sh && chmod +x v4mb.sh && ./v4mb.sh
+wget -q https://ghproxy.com/https://raw.githubusercontent.com/WLy2431217633/MianBan/main/v4mb.sh && chmod +x v4mb.sh && ./v4mb.sh
 ```
 
 #重启手动运行面板
