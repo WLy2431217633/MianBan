@@ -197,3 +197,20 @@ cd panel
 npm i
 pm2 start server.js
 ```
+
+更新A1server.js
+
+~~~
+wget -q https://ghproxy.com/https://raw.githubusercontent.com/WLy2431217633/MianBan/main/server.js -O panel/server.js
+~~~
+
+开启A1面板
+
+~~~
+cd panel
+
+jd panelon
+~~~
+
+
+
