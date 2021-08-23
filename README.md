@@ -198,6 +198,14 @@ npm i
 pm2 start server.js
 ```
 
+更新V4server.js
+
+~~~
+wget -q https://ghproxy.com/https://raw.githubusercontent.com/WLy2431217633/MianBan/main/v4server.js -O panel/server.js
+~~~
+
+
+
 更新A1server.js
 
 ~~~
